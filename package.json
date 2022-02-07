@@ -1,0 +1,16 @@
+{
+  "name": "urlshortenerapi",
+  "dependencies": {
+    "express": "^4.12.4",
+    "body-parser": "^1.15.2"  
+  },  
+  "version": "1.0.0",
+  "description": "API that shortens URLs in POST requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api", "url shortener"],
+  "author": "tolensky",
+  "license": "ISC"
+}
